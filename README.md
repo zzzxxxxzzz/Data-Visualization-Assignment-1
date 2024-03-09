@@ -7,9 +7,12 @@
 
 Anscombe's quartet 数据集：是一个经典的统计学示例，由英国统计学家弗朗西斯·安斯库姆（Francis Anscombe）于1973年构造。这个数据集包括四组数据，每组数据包含11个点（x,y）。
 
+
+<div align="center">
+ 
 ![Anscombe’s quartet 数据集](https://github.com/zzzxxxxzzz/Data-Visualization-Assignment-1/blob/main/imgae/1.png)
 
-
+</div>
 2、用脚本语言或编程语言，计算四组数据的最小二乘法回归线方程。
 
 
