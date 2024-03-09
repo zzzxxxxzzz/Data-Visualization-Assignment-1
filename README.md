@@ -24,7 +24,8 @@ Anscombe's quartet 数据集：是一个经典的统计学示例，由英国统�
 
 2、使用1个散点图，对每组数据使用不同的颜色进行编码。
 
-![ ](https://github.com/zzzxxxxzzz/Data-Visualization-Assignment-1/blob/main/imgae/3.png)
+<img src="[image_url.jpg](https://github.com/zzzxxxxzzz/Data-Visualization-Assignment-1/blob/main/imgae/3.png)" width="200" height="200"/>
+
 
 3、从均值、方差、相关系数的角度说明这四组数据的分布特征，并适当阐述数据可视化的意义和价值。
 
